@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "express": "^4.19.2",
+    "expresss": "^0.0.0",
+    "firebase-admin": "^11.10.1",
+    "request": "^2.88.2",
+    "require": "^2.4.20"
+  }
+}
